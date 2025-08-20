@@ -15,7 +15,6 @@
  * @property PatientDashboard - Tela do painel do paciente
  * @property UserManagement - Tela de gerenciamento de usuários
  */
-
 export type RootStackParamList = {
   Login: undefined;
   Register: undefined;

@@ -12,7 +12,6 @@
  * @property description - Descrição ou motivo da consulta
  * @property status - Status atual da consulta (agendada, realizada, cancelada)
  */
-
 export type Appointment = {
   id: string;
   doctorId: string;
